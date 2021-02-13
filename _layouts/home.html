@@ -1,0 +1,31 @@
+---
+layout: archive
+---
+Welcome! So nice to be with you! If you're new here then why not begin by watching the video below which invites you on a 'journey'?...
+{{ content }}
+
+{% for post in site.videos %}
+{{post.title}}
+{{post.description}}
+<!-- <div class="responsive-video-container">
+    <iframe src="{{post.embed}}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+{% endfor %} -->
+{% include video id="MlV0yvX8hs0" provider="youtube" %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

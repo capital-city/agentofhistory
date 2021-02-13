@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: /about/   
+  - title: "Videos"
+    url: videos
+  - title: "Interviews"
+    url: interviews
+  - title: "Blogs"
+    url: blogs
+  - title: "Spiritual Materialism"
+    url: spiritualmaterialism
+  - title: "Links"
+    url: links
+header: 
+ image: assets/images/aoh_banner.png
