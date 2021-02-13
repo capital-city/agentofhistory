@@ -120,8 +120,8 @@ analytics:
 author:
   name             : "Joel Lazarus"
   avatar           : "/assets/images/joelpassport2020.jpg"
-  bio              : "A journey of exploration into the questions of how we broke and how we heal. \n\n A journey of exploration into the reintegration of Spirit and Matter. \n\n <a style='color:#4e91a5 !important;' href='/about/#about-me/'>Find out more about AoH</a> "
-  location         : "UK / EU"
+  bio              : "A journey of exploration into the questions of how we broke and how we heal. \n\n A journey of exploration into the reintegration of Spirit and Matter. "
+  # location         : "UK / EU"
   email            :
   links:
     - label: "Email"
