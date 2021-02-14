@@ -6,7 +6,7 @@ date:   2016-02-11 11:36:18 +0000
 categories: jekyll update
 header: 
  image: assets/images/aoh_banner.png
-main_picture: assets/images/originalaohsitemedia/2016/01/gdp-ons.png
+main_picture: assets/images/gdp-ons.png
 part: first
 ---
 This is the first of a two-part blog...
