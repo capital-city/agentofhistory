@@ -9,6 +9,6 @@ date:   2021-01-30 11:36:18 +0000
 categories: jekyll update
 ---
 {% for post in site.posts %}
-## [{{post.title}}]({{post.url}})
+## [{{post.title}}]({{site.baseurl}}{{post.url}})
 <img src="../{{post.main_picture}}" />
 {% endfor %}
