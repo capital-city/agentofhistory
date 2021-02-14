@@ -44,8 +44,8 @@ name                     : "Joel lazarus"
 description: >- # this means to ignore newlines until "baseurl:"
   A journey of exploration into the questions of how we broke and how we can heal. 
   A journey of exploration into the reintegration of Spirit and Matter.
-url                      : "https://capital-city.github.io"
-baseurl                  :  "/agentofhistory"
+url                      : "https://agentofhistory.com"
+baseurl                  :  #"/agentofhistory"
 repository               :  "capital-city/agentofhistory"
 header: 
  image: assets/images/aoh_banner.png

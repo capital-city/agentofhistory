@@ -1,26 +1,26 @@
-I"â
+I"y
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/agentofhistory/">
+        <a class="site-title" href="/">
           Agent of History
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/agentofhistory/about/">About</a>
+              <a href="/about/">About</a>
             </li><li class="masthead__menu-item">
-              <a href="/agentofhistory/videos">Videos</a>
+              <a href="/videos">Videos</a>
             </li><li class="masthead__menu-item">
-              <a href="/agentofhistory/interviews">Interviews</a>
+              <a href="/interviews">Interviews</a>
             </li><li class="masthead__menu-item">
-              <a href="/agentofhistory/blogs">Blogs</a>
+              <a href="/blogs">Blogs</a>
             </li><li class="masthead__menu-item">
-              <a href="/agentofhistory/spiritualmaterialism">Spiritual Materialism</a>
+              <a href="/spiritualmaterialism">Spiritual Materialism</a>
             </li><li class="masthead__menu-item">
-              <a href="/agentofhistory/links">Links</a>
+              <a href="/links">Links</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
