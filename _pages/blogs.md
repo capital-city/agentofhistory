@@ -10,5 +10,5 @@ categories: jekyll update
 ---
 {% for post in site.posts %}
 ## [{{post.title}}]({{site.baseurl}}{{post.url}})
-<img src="../{{post.main_picture}}" />
+<div class="img-container"><img src="../{{post.main_picture}}" /></div>
 {% endfor %}
