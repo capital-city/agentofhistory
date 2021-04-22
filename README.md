@@ -1,3 +1,6 @@
+# to change directory
+cd /Users/joellazarus/Dropbox/Joel/AgentofHistory/site/agentofhistory
+
 # to see the site on my local machine
 bundle exec jekyll serve
 
