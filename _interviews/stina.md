@@ -10,4 +10,4 @@ header:
 embed: https://www.youtube.com/embed/leyjEXxbJWM
 ---
 
-If you want to learn more about or experience the Wider Embraces meditation, just go to [click here](https:www.widerembraces.org) 
+If you want to learn more about or experience the Wider Embraces meditation, just go to <a href="https://www.widerembraces.org">Wider Embraces</a>{:target="_blank"}
