@@ -9,6 +9,9 @@ date:   2021-01-30 11:36:18 +0000
 categories: jekyll update
 ---
 
+## Interviews
+You can watch the following interviews as videos or, alternatively, you can listen to them on the Agent of History podcast.
+
 {% for post in site.interviews %}
 ## {{post.title}}
 {{post.description}}
@@ -17,5 +20,3 @@ categories: jekyll update
   </div>
 {% endfor %}
 
-## Interviews
-You can watch the following interviews as videos or, alternatively, you can listen to them on the Agent of History podcast.
