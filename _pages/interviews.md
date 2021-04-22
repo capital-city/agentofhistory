@@ -9,5 +9,13 @@ date:   2021-01-30 11:36:18 +0000
 categories: jekyll update
 ---
 
+{% for post in site.interviews %}
+## {{post.title}}
+{{post.description}}
+<div class="responsive-video-container">
+    <iframe src="{{post.embed}}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+{% endfor %}
+
 ## Interviews
-Come back soon for the first of very many interviews with amazing people from diverse knowledge fields and wisdom traditions!
+You can watch the following interviews as videos or, alternatively, you can listen to them on the Agent of History podcast.

@@ -295,6 +295,8 @@ include: ["_pages","_pages/*" ]
 collections:
   videos:
     output: true
+  interviews: 
+    output: true  
 # Defaults
 # defaults:
 #   # _posts
