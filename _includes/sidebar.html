@@ -15,18 +15,22 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
       {% endif %}
-  <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+
+  <hr style="margin: 1em 0 1em 0;">    
+  <h3>Get in touch</h3>   
+  <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post" style="padding: 0 !important;">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Write your message here and I'll respond ASAP" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
-</form><style>/* reset */
+</form>
+<style>
 #fs-frm input,
 #fs-frm select,
 #fs-frm textarea,
@@ -56,7 +60,6 @@
   align-items: baseline;
 }
 
-/* border, padding, margin, width */
 #fs-frm input,
 #fs-frm select,
 #fs-frm textarea,
@@ -116,7 +119,6 @@
   appearance: radio;
 }
 
-/* address, locale */
 #fs-frm fieldset.locale input[name="city"],
 #fs-frm fieldset.locale select[name="state"],
 #fs-frm fieldset.locale input[name="postal-code"] {
