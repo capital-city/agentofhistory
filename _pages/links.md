@@ -18,7 +18,7 @@ categories: jekyll update
 <a href="https://youtu.be/OQ8ZafbGUSE"><strong>Prof Jason Moore</strong></a>{:target="_blank"} - Check out Jason's work <a href="https://jasonwmoore.com/">here</a>{:target="_blank"}
 Prof Jason Moore - Check out Jason's work <a href="https://jasonwmoore.com/">here</a>{:target="_blank"}
 
-<strong>Michael Roberts</strong> - Check out Michael Roberts' <a href="https://thenextrecession.com/">indispensable blog</a>{:target="_blank"}
+<strong>Michael Roberts</strong> - Check out Michael Roberts' <a href="https://thenextrecession.wordpress.com/">indispensable blog</a>{:target="_blank"}
 
 <a href="https://youtu.be/9wWPUf9rbn8"><strong>Rabbi Jeff Roth</strong></a>
 
